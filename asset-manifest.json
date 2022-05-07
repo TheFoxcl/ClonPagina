@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClonPagina/static/css/main.89bee7a9.css",
+    "main.js": "/ClonPagina/static/js/main.15e7889d.js",
+    "static/media/mrgrimm.jpg": "/ClonPagina/static/media/mrgrimm.9450f3892d92f2c19e75.jpg",
+    "static/media/dollface.jpg": "/ClonPagina/static/media/dollface.8f960caa0d4408dcc0cf.jpg",
+    "index.html": "/ClonPagina/index.html",
+    "main.89bee7a9.css.map": "/ClonPagina/static/css/main.89bee7a9.css.map",
+    "main.15e7889d.js.map": "/ClonPagina/static/js/main.15e7889d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bee7a9.css",
+    "static/js/main.15e7889d.js"
+  ]
+}
